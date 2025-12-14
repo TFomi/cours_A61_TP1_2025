@@ -3,4 +3,4 @@ flask==1.0.2
 
 # local regression_model package
 # update with your local path
--e "C:\TP_1\TP_Cours_A61\cours_A61_TP1_2025\packages\ml_api"
+-e "C:\Users\Dell\Desktop\cours-A61\cours-A61\packages\regression_model"
